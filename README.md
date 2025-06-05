@@ -3,4 +3,3 @@ This is an e commerce app built using Spring Boot.
 📝ADMIN MODULE + USER MODULE
 ➕CRUD OPERATION
 🌱Easy to understand beginner friendly.
-🥳Pull Request Welcome (Open Source).
